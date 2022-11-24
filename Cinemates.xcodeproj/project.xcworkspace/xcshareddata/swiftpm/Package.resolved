@@ -1,0 +1,50 @@
+{
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "revision" : "8dd85aee02e39dd280c75eef88ffdb86eed4b07b",
+        "version" : "5.6.2"
+      }
+    },
+    {
+      "identity" : "kingfisher",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Kingfisher.git",
+      "state" : {
+        "revision" : "44e891bdb61426a95e31492a67c7c0dfad1f87c5",
+        "version" : "7.4.1"
+      }
+    },
+    {
+      "identity" : "lottie-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/airbnb/lottie-ios.git",
+      "state" : {
+        "revision" : "b4bd0604ded9574807f41b4004b57dd1226a30a4",
+        "version" : "3.5.0"
+      }
+    },
+    {
+      "identity" : "radiogroup",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/yonat/RadioGroup.git",
+      "state" : {
+        "revision" : "c2ce6b275fbd8ef970f85349d03e7ea0615ed495",
+        "version" : "1.4.4"
+      }
+    },
+    {
+      "identity" : "sweeterswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/yonat/SweeterSwift",
+      "state" : {
+        "revision" : "74b3d19dc80158b2a87240d05894154a1ba7f2ef",
+        "version" : "1.2.1"
+      }
+    }
+  ],
+  "version" : 2
+}
